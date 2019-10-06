@@ -1,2 +1,6 @@
-# aws-async-api-with-cdk
-Cloud Development Kit (CDK) sample implementation to provision an Asynchronous API using AWS API Gateway, SQS and Lambda
+# Useful commands
+
+ * `npm run test`         perform the jest unit tests
+ * `cdk deploy`           deploy this stack to your default AWS account/region
+ * `cdk diff`             compare deployed stack with current state
+ * `cdk synth`            emits the synthesized CloudFormation template
